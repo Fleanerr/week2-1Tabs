@@ -1,0 +1,29 @@
+/* changes text to the Papyrus font style*/
+body{
+	color: white;
+	background-image: url('rocketPlanets.jpg');
+	font-family: Papyrus; 
+}
+/* changes text color to blue*/
+#document{
+	color: #30AFF8;
+}
+/*changes text color to yellow */
+#uatSpace{
+	color: #FFFA96;
+}
+/* changes text color to orange*/
+#paraFunc{
+	color: orange;
+	font-size: 1.5em;
+}
+/*changes text to oblique font style*/
+#countDown{
+	color: red;
+	font-style: oblique;
+}
+/* changes text color to tan*/
+#countdownStatus{
+	color: #CBB582;
+	font-size: 2em;
+}
